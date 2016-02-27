@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root version="2.0">
+<library>
+	<csrdmonsters static="true">
+		<name type="string">Grund's Orc Horde</name>
+		<categoryname type="string">Grund's Orc Horde</categoryname>
+		<entries>
+		<aacreditslegal>
+			<librarylink type="windowreference"><class>referencetextwide</class><recordname>..</recordname></librarylink>
+			<name type="string">Credits and Legal</name>
+			<text type="formattedtext">
+			<h>Credits</h>
+			<p><b>Module Design:</b> Jason "Tailz" Cordwell</p>
+			<h>Legal</h>
+			<p>This is where a bunch of legal blah blah is to be inserted.</p>
+			</text>
+			</aacreditslegal>
+		</entries>
+	</csrdmonsters>
+</library>
+<reference>
+	(other stuff here)
+</reference>
+<image>
+	Image stuff here
+</image>
+<item>
+	items for the item browser, Blood for the Blood God!
+</item>
+<encounter>
+	story entries.
+</encounter>
+<npcs>
+	shiny NPCs
+</npcs>
+</root>
